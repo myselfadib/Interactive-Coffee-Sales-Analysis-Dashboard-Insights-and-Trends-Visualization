@@ -1,4 +1,5 @@
 # Interactive-Coffee-Sales-Analysis-Dashboard-Insights-and-Trends-Visualization
+![alt text](
 This Coffee Sales Dashboard project is crafted to analyze and visualize coffee sales data effectively, allowing for detailed insights into sales trends over time, sales distribution by country, and key customer engagement. This dashboard was designed using Microsoft Excel 2019, incorporating advanced functionalities to overcome the absence of the XLOOKUP feature.
 
 ## Key Features and Tools Used:
